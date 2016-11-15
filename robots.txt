@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+Allow: /*.svg*
+
+Disallow: /administrator/
+Disallow: /cli/
+Disallow: /includes/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
